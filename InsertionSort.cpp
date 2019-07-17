@@ -1,4 +1,4 @@
-//Insertion sort
+//Insertion sort O(n2)
 
 #include <iostream>
 using namespace std;
