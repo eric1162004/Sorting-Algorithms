@@ -1,4 +1,4 @@
-//Bubble sort
+//Bubble sort O(n2)
 
 #include <iostream>
 using namespace std;
