@@ -1,4 +1,4 @@
-//Selection sort
+//Selection sort O(n2)
 
 #include <iostream>
 using namespace std;
