@@ -1,4 +1,4 @@
-//imporved Bubble sort
+//imporved Bubble sort O(n2)
 //Sorting ends as soon as no swapping is performed
 
 #include <iostream>
