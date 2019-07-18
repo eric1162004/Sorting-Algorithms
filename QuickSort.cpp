@@ -20,6 +20,7 @@ int Partition(int *a, int start, int end)
     return pIndex;
 }
 
+//QuickSort(Array, start index, end index)
 void QuickSort(int *a, int start, int end)
 {
     if (start < end)
